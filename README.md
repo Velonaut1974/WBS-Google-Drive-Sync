@@ -141,7 +141,7 @@ The following files are sensitive and must never be shared or uploaded to GitHub
 | `.bootcamp_token.json` | Your personal Google login token |
 | `.bootcamp_tracker.json` | List of already downloaded file IDs |
 
-A `.gitignore` file is included in this repository to prevent accidental uploads.
+
 
 ---
 
@@ -153,7 +153,4 @@ A `.gitignore` file is included in this repository to prevent accidental uploads
 
 ---
 
-## Author
-
-Built by Andy — WBS Coding School, Data Science & AI Bootcamp 2026
 
