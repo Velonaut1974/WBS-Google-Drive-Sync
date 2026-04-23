@@ -1,0 +1,10 @@
+credentials.json
+.bootcamp_token.json
+.bootcamp_tracker.json
+.DS_Store
+**/.DS_Store
+*.sql
+00_intro_statistics/
+01_SQL_basics/
+02_Eniac_Magist/
+02_data_driven_business_with_SQL_and_Tableau/
